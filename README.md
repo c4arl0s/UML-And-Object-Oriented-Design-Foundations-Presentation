@@ -1,5 +1,11 @@
 # [go back to Overview](https://github.com/c4arl0s)
 
+In order to update an existing Git submodule execute: (You might need permissions from Owner to get submodules)
+
+```console
+git submodule update --remote --merge
+```
+
 # [UML-And-Object-Oriented-Design-Foundations - Content](https://github.com/c4arl0s/uml-and-object-oriented-design-foundations#go-back-to-overview)
 
 If you want to access to this project and be part of it, please send me an email: c.santiago.cruz@icloud.com
